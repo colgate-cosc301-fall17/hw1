@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Creating test files for hw1"
+echo "Creating test files for prelab1"
 rm -rf foo
 mkdir -p foo/b/c
 mkdir -p foo/b/d
